@@ -1,13 +1,15 @@
 # UNet-Semantic-Segmentation-Aerial-Imagery
 A Custom U-Net and InceptionResNetV2 (Transfer Learning) Models for Multiclass Semantic Segmentation on Unbalanced Aerial Imagery
 
-🔹 Accuracy U-Net: 0.8351607322692871
+🔹 Accuracy U-Net: 0.7757018804550171
 
 🔹 Accuracy InceptionResNetV2: 0.8351607322692871
 
 ⚡ Dataset: https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
-The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and annotated with pixel-wise semantic segmentation in 6 classes. The total volume of the dataset is 72 images grouped into 6 larger tiles:
+⚡ The total volume of the dataset is 72 images grouped into 6 larger tiles => cut up images into 256x256 pieces to create a larger training set
+
+⚡ The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and annotated with pixel-wise semantic segmentation in 6 classes: 
 
 Building: #3C1098
 
