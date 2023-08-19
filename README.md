@@ -1,9 +1,9 @@
 # UNet-Semantic-Segmentation-Aerial-Imagery
 A Custom U-Net and InceptionResNetV2 (Transfer Learning) Models for Multiclass Semantic Segmentation on Unbalanced Aerial Imagery
 
-🔹 Accuracy U-Net: 0.7757018804550171
+🔹 Accuracy U-Net: 77%
 
-🔹 Accuracy InceptionResNetV2: 0.8712198138237
+🔹 Accuracy InceptionResNetV2: 87%
 
 ⚡ Dataset: https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
