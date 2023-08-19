@@ -3,7 +3,7 @@ A Custom U-Net and InceptionResNetV2 (Transfer Learning) Models for Multiclass S
 
 🔹 Accuracy U-Net: 0.7757018804550171
 
-🔹 Accuracy InceptionResNetV2: 0.8351607322692871
+🔹 Accuracy InceptionResNetV2: 0.8712198138237
 
 ⚡ Dataset: https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
