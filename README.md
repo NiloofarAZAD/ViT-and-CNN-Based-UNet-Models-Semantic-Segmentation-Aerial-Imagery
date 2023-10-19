@@ -1,6 +1,6 @@
 # UNet-Semantic-Segmentation-Aerial-Imagery
 
-In image segmentation, transfer learning helps deep learning models perform more accurately. This project focuses on the segmentation of satellite images and finding the best transfer learning technique with U-Net for precise image segmentation. Three approaches of transfer learning including pre-trained VGG19, InceptionResNetV2, and EfficientNet models were used. Visual results and dice coefficients of the models were compared. " " showed more accurate performances.
+Transfer learning significantly enhances the accuracy of deep learning models in image segmentation. This project focuses on the utilization of a CNN architecture (U-Net) and finding the best transfer learning technique for precise satellite image segmentation, which plays an important role in various applications such as urban planning, environmental monitoring, and disaster management Accomplish this, three different transfer learning approaches were employed: pre-trained VGG19, InceptionResNetV2, and EfficientNet models. The visual results and dice coefficients of these models were compared. Notably, the "VGG19" model achieved an accuracy of 95%. By comparing transfer learning models, this project aims to increase the accuracy of multiclass semantic segmentation on satellite images. This project was implemented in TensorFlow 
 
 ⚡ Dataset: https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
