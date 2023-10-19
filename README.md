@@ -1,5 +1,6 @@
 # UNet-Semantic-Segmentation-Aerial-Imagery
-A Custom U-Net and InceptionResNetV2 (Transfer Learning) Models for Multiclass Semantic Segmentation on Unbalanced Aerial Imagery
+
+In image segmentation, transfer learning helps deep learning models perform more accurately. This project focuses on the segmentation of satellite images and finding the best transfer learning technique with U-Net for precise image segmentation. 
 
 🔹 Accuracy U-Net: 77%
 
