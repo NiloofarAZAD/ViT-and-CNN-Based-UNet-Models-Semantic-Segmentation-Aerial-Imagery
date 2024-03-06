@@ -1,4 +1,4 @@
-# Multiclass Semantic Segmentation on Aerial Imagery Using U-Net and UNETR (Vision Transformers-based U-Net)
+# Multiclass Semantic Segmentation on Aerial Imagery Using U-Net and UNETR (Vision Transformers U-Net)
 
 ⚡ A Comparison of CNN-based U-Net and UNETR (Vision Transformers-based U-Net) Models for Multiclass Semantic Segmentation on Aerial Images
 
