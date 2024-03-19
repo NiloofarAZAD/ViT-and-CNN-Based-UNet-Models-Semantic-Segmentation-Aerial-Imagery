@@ -2,6 +2,8 @@
 
 ⚡ A Comparison of CNN-based U-Net and UNETR (Vision Transformers-based U-Net) Models for Multiclass Semantic Segmentation on Aerial Images
 
+The UNETR architecture utilizes a Transformer as the encoder to learn sequence representations of input images and effectively capture the global multi-scale information, following this, there is a CNN-based decoder to upsample the global representations and generate the final segmentation mask.
+
 <img width="741" alt="19c387ec-df70-4d60-847f-331910aa384f" src="https://github.com/NiloofarAZAD/ViT-and-CNN-Based-UNet-Models-Semantic-Segmentation-Aerial-Imagery/assets/128168974/ea6af991-460c-4c84-a2f6-e0c15f99c99c">
 
 
