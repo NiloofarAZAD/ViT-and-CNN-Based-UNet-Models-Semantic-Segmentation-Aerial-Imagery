@@ -3,7 +3,9 @@
 ⚡ In this project, I built a couple of UNet-based models for the task of Multiclass Semantic Segmentation of satellite images of Dubai to compare their performance.
 
 I built 5 models including the classic UNet and Vision-Transformer-based UNet (UNETR).
-The other 3 models are variations of it (VGG10-UNet, Densenet-UNet, Attention-UNet)
+The other 3 models are variations of it (VGG10-UNet, Densenet-121-Unet, Attention-UNet)
+
+⚡ In conclusion, using 2088 images to train models, Densenet-121-Unet achieved the best performance with 89% accuracy compared to others. 
 
 The UNETR architecture utilizes a Transformer as the encoder to learn sequence representations of input images and effectively capture the global multi-scale information, following this, there is a CNN-based decoder to upsample the global representations and generate the final segmentation mask.
 
