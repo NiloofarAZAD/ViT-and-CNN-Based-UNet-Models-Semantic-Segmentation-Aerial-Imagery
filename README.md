@@ -19,7 +19,4 @@ The UNETR architecture utilizes a Transformer as the encoder to learn sequence r
 [UNETR: Transformers for 3D Medical Image Segmentation],
 Ali Hatamizadeh, Dong Yang, Holger Roth, Daguang Xu. 2021. (https://arxiv.org/abs/2103.10504?context=cs.CV)
 
-<img width="741" alt="19c387ec-df70-4d60-847f-331910aa384f" src="https://github.com/NiloofarAZAD/ViT-and-CNN-Based-UNet-Models-Semantic-Segmentation-Aerial-Imagery/assets/128168974/ea6af991-460c-4c84-a2f6-e0c15f99c99c">
-
-
-
+<img width="741" alt="UNETR_img" src="https://github.com/NiloofarAZAD/ViT-and-CNN-Based-UNet-Models-Semantic-Segmentation-Aerial-Imagery/assets/128168974/15bb4851-be16-45cb-826a-fb1023bc5a5d">
