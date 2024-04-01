@@ -10,6 +10,7 @@ The other 3 models are variations of it (VGG10-UNet, Densenet-121-UNet, Attentio
 ⚡ Dataset: https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
 The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and annotated with pixel-wise semantic segmentation in 6 classes. The total volume of the dataset is 72 images grouped into 6 larger tiles => cut up images into 256x256 pieces and use data augmentation to create a larger training set. 
+
 ------------------------------------------------------------------------
 UNETR:
 
