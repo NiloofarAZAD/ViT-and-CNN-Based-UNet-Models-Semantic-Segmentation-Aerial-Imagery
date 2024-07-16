@@ -1,6 +1,6 @@
 # Multiclass Semantic Segmentation on Aerial Imagery Using U-Net and UNETR (Vision Transformers U-Net)
 
-⚡ In this project, I built a couple of UNet-based models for the task of Multiclass Semantic Segmentation of satellite images of Dubai to compare their performance.
+⚡ In this project, I built a couple of UNet-based models for the task of Multiclass Semantic Segmentation of aerial images of Dubai to compare their performance.
 
 I built 5 models including the classic UNet and Vision-Transformer-based UNet (UNETR).
 The other 3 models are variations of it (VGG19-UNet, Densenet-121-UNet, Attention-UNet)
